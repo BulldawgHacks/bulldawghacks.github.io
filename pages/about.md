@@ -4,4 +4,6 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+My name is Nick Verhelle, and I am a penetration tester and cybersecurity professional with over 2 years of experience in the industry. My work focuses on offensive security, vulnerability analysis, and adversary simulation across varied enterprise environments. I like to approach engagements with a methodical, tool-agnostic mindset, emphasizing real-world impact, risk, and value.
+
+In other words, massive nerd. Love being a nerd. Also love county music, dogs, and my wife.
