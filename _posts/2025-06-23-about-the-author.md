@@ -3,6 +3,7 @@ layout: post
 title: "About the Author"
 author: "Nick Verhelle"
 categories: blog
+tags: [blog]
 image: kali-meme.jpg
 ---
 
