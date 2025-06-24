@@ -7,16 +7,16 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Blog',       url: 'blog'}
+- {name: 'Blog', url: 'blog'}
 - {name: 'Resources', url: 'resources'}
-- {name: 'About',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
+- {name: 'About', url: 'about'}
+- {name: 'Contact', url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'linkedin', link:    'https://www.linkedin.com/in/nick-verhelle/'}
 - {icon: 'github', link:   'https://github.com/BulldawgHacks'}
-- {icon: 'h', link:   'https://hackerone.com/bulldawg?type=user'}
+- {icon: 'user', link:   'https://hackerone.com/bulldawg?type=user'}
 - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
