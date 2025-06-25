@@ -1,9 +1,0 @@
----
-layout: post
-title: "About the Author"
-author: "Nick Verhelle"
-categories: blog
-tags: [blog]
----
-
-Hi there! Im Nick. I decided to make this personal website and blog to document different things I do and research related to offensive security. Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nick-verhelle/)!
