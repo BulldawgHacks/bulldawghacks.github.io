@@ -11,8 +11,9 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Nick Verhelle"
-description:	       "Personal Website and Blog"
+description:	       "A website and blog on penetration testing, hacking, and the cybersecurity industry. Explore posts, presentations, and resources and please reach out to connect!"
 author:              "Nick Verhelle"
+topic: penet
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 feed:

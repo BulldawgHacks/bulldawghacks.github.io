@@ -5,6 +5,7 @@ author: "Nick Verhelle"
 categories: blog
 tags: [blog]
 image: odyssey-1.jpg
+description: The reason why I created this blog and website. The goal is to showcase and present penetration testing and hacking resources and content.
 ---
 
 Hi there! Im Nick. I decided to make this website as both a record of my presentations, projects, and research as well as a space to share ideas and information. The goal is to, over time, generate a repository of all things hacking and penetration testing-related that I enjoy or take part in. I am looking forward to publishing blog posts, knowledge bases, past and future presentations, and interact with the cybersecurity community.
