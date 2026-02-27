@@ -12,7 +12,7 @@ Hi there! Im Nick. I decided to make this website as both a record of my present
 
 The blog section will be where I post a lot of my ideas. I also plan on building out the resources pages to document anything I have found of value in my hacking and penetration testing career.
 
-Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nick-verhelle/)!
+Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nick-verhelle/).
 
 I hope you enjoy!
 
